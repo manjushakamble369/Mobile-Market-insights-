@@ -21,12 +21,6 @@ Correlation analysis between RAM and internal storage configurations, offering i
 # Data Source
 The data used in this project includes information on over 600 mobile phone models from various brands, including specifications such as RAM, internal storage, battery capacity, and more.
 
-# Visualization Highlights
-Brand Market Share: Bar and pie charts that illustrate the distribution of mobile phone brands.
-Price Distribution: Histograms showing the most common price ranges.
-5G Adoption: Pie chart indicating the percentage of 5G-capable phones.
-RAM vs. Storage: Heatmap visualizing the relationship between RAM and internal storage.
-
 # Technologies Used
 MySQL: For data storage and management.
 Power BI: For data visualization and dashboard creation.
